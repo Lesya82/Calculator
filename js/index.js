@@ -31,7 +31,7 @@ numberTwo = parseInt(numberTwo);
     document.getElementById('out').innerHTML = result;
 }
 
-function division(){
+function divide(){
     let numberOne;
     let numberTwo;
 numberOne = document.getElementById("nOne").value;
